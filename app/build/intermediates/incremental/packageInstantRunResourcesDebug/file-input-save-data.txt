@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu Aug 10 11:56:08 CST 2017
+2.base=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_second.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\grid_item.xml
+5.base=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\com_tencent_open_notice_msg_icon_big.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Study\\DragGridView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Study\DragGridView\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e86f39ebaa2c336ccf3f42405e8cd97f58a60b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\DragGridView\app\libs\nineoldanimatin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="0c9460454d4f6578861c7312199a6bab9e1a9db7">
+        <dex dex="D:\Study\DragGridView\app\build\intermediates\pre-dexed\debug\nineoldanimatin_733f2f97a2aefbc87b0b0ede3acc68111775cbe0.jar" />
+    </item>
+
+</items>

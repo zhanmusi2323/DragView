@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Study\\DragGridView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Study\\DragGridView\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Study\\DragGridView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "D:\\Study\\DragGridView\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "D:\\Study\\DragGridView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\Study\\DragGridView\\app\\src\\main\\res\\layout\\grid_item.xml"
+    }
+]
